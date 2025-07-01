@@ -10,6 +10,7 @@ function App() {
   // Your backend API base URL
   const API_BASE = 'https://bmagrilink-production.up.railway.app/api';
 
+
   // Fetch items on mount
   useEffect(() => {
     fetch(`${API_BASE}/items`)
