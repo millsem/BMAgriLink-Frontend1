@@ -1,7 +1,7 @@
 
 // src/App.jsx
 +// redeploy: bump to trigger Netlify
-import React, { useState, useEffect } from 'react';
++ import React, { useState, useEffect } from 'react';
 
 function App() {
   // State for items, loading and errors
