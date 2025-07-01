@@ -1,5 +1,6 @@
 
 // src/App.jsx
++// redeploy: bump to trigger Netlify
 import React, { useState, useEffect } from 'react';
 
 function App() {
@@ -59,4 +60,5 @@ function App() {
 }
 
 export default App;
+
 
